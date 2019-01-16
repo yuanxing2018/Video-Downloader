@@ -19,7 +19,7 @@ from Module import iqiyiClass
 from Library import fileProcesserClass
 from Library import updateClass
 from Library import cfgClass
-
+# 定义.
 class GUI :
 
 	def __init__ (self) :
