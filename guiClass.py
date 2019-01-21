@@ -20,7 +20,7 @@ from Library import fileProcesserClass
 from Library import updateClass
 from Library import cfgClass
 # from Module import youkuClass
-# from Module import youkuClass
+# from Module import 
 class GUI :
 
 	def __init__ (self) :
