@@ -19,7 +19,8 @@ from Module import iqiyiClass
 from Library import fileProcesserClass
 from Library import updateClass
 from Library import cfgClass
-# 定义.
+# from Module import youkuClass
+# from Module import youkuClass
 class GUI :
 
 	def __init__ (self) :
